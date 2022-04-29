@@ -1,9 +1,59 @@
-# Exercício para entrega na SEMANA 2 - referente à etapa 1 (`SEMANA01/02_TUTORIAL`)
+<!DOCTYPE html>
+<html>
+<head>
+<title>Meu currículo</title>
+<link href="estilos/estilocss.css" rel="stylesheet">
+</head>
+<body>
 
-## Descrição
-Adapte os códigos e documentos apresentado na etapa do tutorial da semana 1 para construir seu currículo em uma página HTML que seja servida via Node.JS 
+<h1><center>Thainá de Deus Lima</h1>
+<p><center>Solteira, Brasileira,17 anos <br/>
+Rua M.M.D.C, 80 - Butantã, São Paulo - SP, 05510-021<br/>
+(11) 98148-7397<br/>
+thaina.lima@sou.inteli.edu.br</center>
+
+<h2>Qualificações pessoais</h2>
+<p>Trabalho bem em equipe<br/>
+       Excelente comunicação <br/>
+       Organização
+</p>
 
 
-## Forma de entrega
-- Publique a sua solução no seu Github pessoal (criado com o e-mail Inteli conforme instruído no tutorial da Semana 1)
-- Na resposta ao card na Adalove, inclua o link para o seu Github
+<h2>Histórico acadêmico</h2>
+<p>Ensino Médio<br/>
+Escola Sesi Anísio Teixeira<br/>
+Conclusão: Dezembro/2021<br/>
+
+<h4>Línguas</h4>
+<p>Inglês avançado<p>
+
+<h2>Cursos complementares</h2>
+<p>Oficina de Língua de Portuguesa e Gramática Normativa - Fundação Bradesco<br/>
+<p>Física, Natureza e Tecnologia - Fundação Bradesco<br/>
+<p>Ética, Política e Cidadania - Instituto Politécnico de Ensino a Distância<br/>
+<p>Auxiliar de escritório - Instituto Politécnico de Ensino a Distância<br/>
+<p>Atendimento ao cliente - SEBRAE<br/>
+<p>Metodologia Científica - Plataforma Apice<br/>
+<p>Escola de Líderes - SESI<p>
+
+<h2>Experiências Acadêmicas</h2>
+<p>FBJC - Feira Brasileira de Jovens Cientistas (Premiação com o Terceiro Lugar em Ciências Humanas);<br/>
+<p>FEBRACE - Feira Brasileira de Ciências e Engenharia (Estudante finalista);<br/>
+<p>XIII FLIPA - FESTIVAL LITERÁRIO DE PAULO AFONSO. Experimentação da modalidade de Ensino Híbrido buscando a inserção no Sistema Educacional Brasileiro.2021;<br/>
+<p>I Seminário de Língua, Ficção e Artes e V Seminário de Língua e Literatura Hispano-Americana. O ENSINO HÍBRIDO E SUA INSERÇÃO NO SISTEMA EDUCACIONAL BRASILEIRO.2020.(Seminário);<br/>
+<p>I Simpósio internacional de Ensino de Língua, Literatura e interculturalidade e XIX encontro de Letras.Análise da Modalidade de Ensino Híbrido visando a inserção no Sistema Educacional Brasileiro.2020.(Simpósio).
+
+<h2>Atividades desenvolvidas</h2>
+<p>Divulgação científica;<br/>
+<p>Aprimoramento científico;<br/>
+<p>Estudo metodológico do Ensino Híbrido voltado para a metodologia ativa Sala de Aula Invertida;<br/>
+<p>Publicação em anais de congressos e capítulos de livros;<br/>
+<p>Participação do Grupo de Pesquisa Laboratório de Cultura, Trabalho e Letramento do Professor de Línguas - LabCulTLet;<br/>
+<p>Participação do Grupo de Pesquisa Laboratório de Garimpo Textual e(m) Trabalho do Professor de Línguas - LaGaTT.
+
+<h2>Currículos</h2>
+<a href="https://www.linkedin.com/in/thain%C3%A1-lima-169177232/">
+<img src="C:\Users\Inteli\Pictures\linkedin" alt= "Linkedin" 
+href="http://lattes.cnpq.br/8725830142676034"/>
+<img scr="C:\Users\Inteli\Pictures\lattes" alt="Lattes"
+</a>
